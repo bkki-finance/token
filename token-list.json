@@ -1,6 +1,6 @@
 {
   "name": "BKKI",
-  "logoURI": "https://github.com/bkki-finance/token/blob/main/BKKI.png",
+  "logoURI": "https://raw.githubusercontent.com/bkki-finance/token/main/BKKI.png",
   "keywords": [
       "defi",
       "bkki",
@@ -14,7 +14,7 @@
       "name": "BKKICOIN TOKEN",
       "symbol": "BKKI",
       "decimals": 18,
-      "logoURI": "https://github.com/bkki-finance/token/blob/main/BKKI.png"
+      "logoURI": "https://raw.githubusercontent.com/bkki-finance/token/main/BKKI.png"
       }
     ],
     "version": {
